@@ -1,0 +1,12 @@
+{
+  "cep": "95097-260",
+  "logradouro": "Rua Sapucaia",
+  "complemento": "",
+  "bairro": "São Leopoldo",
+  "localidade": "Caxias do Sul",
+  "uf": "RS",
+  "ibge": "4305108",
+  "gia": "",
+  "ddd": "54",
+  "siafi": "8599"
+}
